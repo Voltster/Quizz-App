@@ -1,11 +1,10 @@
-import React, { useState } from 'react'
 import Quiz from './components/Quiz'
 import WelcomeScreen from './components/WelcomeScreen'
 import "./App.css"
+import { useState } from 'react';
 
 
 function App() {
-  
 
   const [showQuiz, setShowQuiz] = useState(false);
 

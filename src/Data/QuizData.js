@@ -19,4 +19,9 @@ export const QuizData = [
         options: ["1996", "1995", "1994", "none of the above"],
         answer:2
     },
+    {
+        question: "What is the largest planet in our solar system?",
+        options: ["Jupiter", "Saturn", "Earth", "Venus"],
+        answer:1
+    },
 ];
